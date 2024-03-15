@@ -83,7 +83,7 @@ nav{
         transition: transform 0.5s ease-in;
     }
     .nav-links li{
-        opacity: 0%;
+        opacity: %;
 
     }
 
@@ -96,6 +96,8 @@ nav{
 
 .nav-active{
     transform: translateX(0%);
+   
+
 }
 
 @keyframes navLinkFade {
